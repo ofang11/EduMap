@@ -1,4 +1,4 @@
-#!/Users/oscarfang/Desktop/bs_install/bs_venv/bin/python
+#!/Users/oscarfang/Desktop/EduMap/bs_venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
