@@ -1,0 +1,21 @@
+{
+  "name": "EduMap",
+  "intro": "Our Course Planner is a user-friendly tool designed to help you map out your academic path with ease. Plan your courses, schedule your semesters, and track your progress toward graduation—all in one place. Stay organized, avoid scheduling conflicts, and make informed decisions to achieve your educational goals efficiently.",
+  "slogan": "Navigate Your Path to Graduation.",
+  "colleges": [
+    "Boston University",
+    "Wesleyan University",
+    "Harvard University",
+    "Stanford University",
+    "Massachusetts Institute of Technology",
+    "University of California, Berkeley",
+    "California Institute of Technology"
+  ],
+  "majors": [
+    "Computer Science",
+    "Mechanical Engineering",
+    "Psychology",
+    "Business Administration",
+    "Biology"
+  ]
+}
