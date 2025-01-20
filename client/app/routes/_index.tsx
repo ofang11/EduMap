@@ -3,15 +3,15 @@ import Landing from "../page/Landing";
 
 export const meta: MetaFunction = () => {
   return [
-    { title: "EduMap" },
+    { title: "EduMap2" },
     { name: "description", content: "Plan your courses." },
   ];
 };
 
 export default function Index() {
   return (
-      <div>
-        <Landing />
-      </div>
+    <div>
+      <Landing />
+    </div>
   );
 }
