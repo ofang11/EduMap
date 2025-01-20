@@ -1,5 +1,7 @@
 # EduMap
 
+AI Driven, Personalized Plan of Study Recommendations
+
 Run the dev server:
 
 ```shellscript
